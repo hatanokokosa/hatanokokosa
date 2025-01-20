@@ -1,5 +1,5 @@
-## Kokosa there... Ciallo～(∠・ω< )~ ♥️
->你好！这里是秦心桜 不知道说什么呢...欢迎光临？
+## Kokosa here...
+>你好？这里是秦心桜...不知道说什么呢...
 <table frame='void' align='right'>
 <tr><td><img src="https://github-readme-stats.vercel.app/api?username=hatanokokosa&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default" /></td></tr>
 </table>
@@ -16,9 +16,8 @@
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
-### 🤔 What else do I want to learn...?
+### 🤔 learn...?
 - [ ] C、C++、RUST...
 - [ ] C#、Python...
 - [ ] Game Development
