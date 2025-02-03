@@ -3,6 +3,7 @@
 <table align='right'>
 <tr><td><img src="https://github-readme-stats.vercel.app/api?username=hatanokokosa&include_all_commits=true&hide_border=true" width="400"></td></tr>
 <tr><td><div align="center"> <img width="400" src="https://count.kjchmc.cn/get/@:hatanokokosa?theme=gelbooru" /> </div></td></tr>
+<tr><td><img src="https://telegraph-image-92x.pages.dev/file/7a6b03a6b5d41d664eb0b-7954a604f0a37b7322.png" alt="avatar" style="width: 400px; border-radius: 50%;"/></td></tr>
 </table>
 
 ### 🌍 能看懂和能看懂一点的语言
