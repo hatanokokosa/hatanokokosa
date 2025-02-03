@@ -1,4 +1,4 @@
-## 你好！这里是心桜!
+## 你好！这里是心桜！
 
 <table align='right'>
 <tr><td><img src="https://github-readme-stats.vercel.app/api?username=hatanokokosa&include_all_commits=true&hide_border=true" width="400"></td></tr>
