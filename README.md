@@ -10,7 +10,7 @@
 
 ### 🌍 能看懂和能看懂一点的语言
 
- 🇨🇳 简体中文  |  🇭🇰 / 🇹🇼 繁體中文  |  🇺🇸 English  |  🇯🇵 日本語
+#### 🇨🇳 简体中文  |  🇭🇰 / 🇹🇼 繁體中文  |  🇺🇸 English  |  🇯🇵 日本語
 
 ### 📬 联系方式（NO PM
  [![Email](https://img.shields.io/badge/_kokosaarisu-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokosaarisu@gmail.com)
