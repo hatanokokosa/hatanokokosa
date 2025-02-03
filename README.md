@@ -10,8 +10,8 @@
  🇨🇳 简体中文  |  🇭🇰 / 🇹🇼 繁體中文  |  🇺🇸 English  |  🇯🇵 日本語
 
 ### 📬 联系方式（x 但是不要PM
- [![Email](https://img.shields.io/badge/_kokosaarisu@gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokosaarisu@gmail.com)
-[![Bilibili](https://img.shields.io/badge/_秦心桜-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546660854565061)
+ [![Email](https://img.shields.io/badge/_kokosaarisu-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokosaarisu@gmail.com)
+[![Bilibili](https://img.shields.io/badge/_-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546660854565061)
 [![Telegram](https://img.shields.io/badge/_KokosaKawaii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KokosaKawaii)
 
 ### 🚀 正在学习的一些东西
