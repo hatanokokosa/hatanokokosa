@@ -23,7 +23,4 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Krita](https://img.shields.io/badge/-Krita-6A1B9A?style=for-the-badge&logo=krita&logoColor=white)
 
-### 🎨 创作领域
-🕹️ 游戏开发 | 🎨 数字绘画 | ✏️ OC / 同人创作
-
 
