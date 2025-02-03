@@ -1,8 +1,8 @@
 ## 你好！这里是心桜
 
 <table align='right'>
-<tr><td><img src="https://github-readme-stats.vercel.app/api?username=hatanokokosa&include_all_commits=true&hide_border=true" width="500"></td></tr>
-<tr><td><div align="center"> <img width="500" src="https://count.kjchmc.cn/get/@:hatanokokosa?theme=gelbooru" /> </div></td></tr>
+<tr><td><img src="https://github-readme-stats.vercel.app/api?username=hatanokokosa&include_all_commits=true&hide_border=true" width="400"></td></tr>
+<tr><td><div align="center"> <img width="400" src="https://count.kjchmc.cn/get/@:hatanokokosa?theme=gelbooru" /> </div></td></tr>
 </table>
 
 ### 🌍 能看懂和能看懂一点的语言
