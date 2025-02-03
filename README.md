@@ -4,7 +4,6 @@
 <tr><td><img src="https://github-readme-stats.vercel.app/api?username=hatanokokosa&include_all_commits=true&hide_border=true" width="400"></td></tr>
 <tr><td><div align="center"> <img width="400" src="https://count.kjchmc.cn/get/@:hatanokokosa?theme=gelbooru" /> </div></td></tr>
 <tr><td><img src="https://telegraph-image-92x.pages.dev/file/c060bc728b652e8e0fea2-9c941d670570b6e437.png" alt="avatar" style="width: 400px; border-radius: 50%;"/></td></tr>
-<tr><td>你好！不好也行！！好不好都行！！！所以你好！！！！</td></tr>
 </table>
 
 <tr><td><img src="https://telegraph-image-92x.pages.dev/file/a5ba836da96c42ea2d2e1-6d43ca6db136b98135.png" alt="avatar" style="width: 350px; border-radius: 50%;"/></td></tr>
