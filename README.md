@@ -1,5 +1,9 @@
-## 你好...这里是心桜 #比划
-<img src="https://telegraph-image-92x.pages.dev/file/a5ba836da96c42ea2d2e1-6d43ca6db136b98135.png" alt="avatar" style="width: 300px; border-radius: 50%; float: right;"/>
+## 你好！这里是心桜
+
+<table align='right'>
+<tr><td><img src="https://github-readme-stats.vercel.app/api?username=hatanokokosa&include_all_commits=true&hide_border=true" width="500"></td></tr>
+<tr><td><div align="center"> <img width="500" src="https://count.kjchmc.cn/get/@:hatanokokosa?theme=gelbooru" /> </div></td></tr>
+</table>
 
 ### 🌍 能看懂和能看懂一点的语言
 
@@ -19,3 +23,5 @@
 
 ### 🎨 创作领域
 🕹️ 游戏开发 | 🎨 数字绘画 | ✏️ OC / 同人创作
+
+<tr><td><img src="https://telegraph-image-92x.pages.dev/file/a5ba836da96c42ea2d2e1-6d43ca6db136b98135.png" alt="avatar" style="width: 400px; border-radius: 50%;"/></td></tr>
