@@ -6,7 +6,7 @@
 <tr><td><img src="https://telegraph-image-92x.pages.dev/file/7a6b03a6b5d41d664eb0b-7954a604f0a37b7322.png" alt="avatar" style="width: 400px; border-radius: 50%;"/></td></tr>
 </table>
 
-<tr><td><img src="https://telegraph-image-92x.pages.dev/file/a5ba836da96c42ea2d2e1-6d43ca6db136b98135.png" alt="avatar" style="width: 400px; border-radius: 50%;"/></td></tr>
+<tr><td><img src="https://telegraph-image-92x.pages.dev/file/a5ba836da96c42ea2d2e1-6d43ca6db136b98135.png" alt="avatar" style="width: 350px; border-radius: 50%;"/></td></tr>
 
 ### 🌍 能看懂和能看懂一点的语言
 
