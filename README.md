@@ -1,10 +1,10 @@
 ## 你好！这里是心桜！
 
 <table align='right' border="0">
-<tr><td><div align="center"> <img width="400" src="https://count.kjchmc.cn/get/@:hatanokokosa?theme=gelbooru" /> </div></td></tr>
-<tr><td><img src="https://github-readme-stats.vercel.app/api?username=hatanokokosa&?count_private=true&hide_border=true&theme=catppuccin_latte&include_all_commits=true&show_icons=true" width="400"></td></tr>
-<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatanokokosa&theme=catppuccin_latte&layout=compact&hide_border=true" width="400"></td></tr>
-<tr><td><img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/ciallo.png" alt="avatar" style="width: 400px; border-radius: 50%;"/></td></tr>
+<tr><td> <img width="400" src="https://count.kjchmc.cn/get/@:hatanokokosa?theme=gelbooru" /> </td></tr>
+<tr><td> <img src="https://github-readme-stats.vercel.app/api?username=hatanokokosa&?count_private=true&hide_border=true&include_all_commits=true&show_icons=true" width="400"> </td></tr>
+<tr><td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatanokokosa&layout=compact&hide_border=true" width="400"> </td></tr>
+<tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/ciallo.png" alt="avatar" style="width: 400px; border-radius: 50%;"/> </td></tr>
 </table>
 
 <tr><td><img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/Q.png" alt="avatar" style="width: 350px; border-radius: 50%;"/></td></tr>
