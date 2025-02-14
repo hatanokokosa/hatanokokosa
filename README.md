@@ -19,7 +19,7 @@
 [![Telegram](https://img.shields.io/badge/_KokosaKawaii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KokosaKawaii)
 
 ### 📚 我的GPG公钥
-#### [27866C3B7BB5FF9ECCAF6256CD5330A02685A3E5](https://keys.openpgp.org/vks/v1/by-fingerprint/27866C3B7BB5FF9ECCAF6256CD5330A02685A3E5)
+#### 唉我草我的私钥丢了，大悲
 
 ### 🚀 正在学习的一些东西
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
