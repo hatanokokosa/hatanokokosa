@@ -2,8 +2,8 @@
 
 <table align='right' border="0">
 <tr><td> <img width="400" src="https://count.kjchmc.cn/get/@:hatanokokosa?theme=gelbooru" /> </td></tr>
-<tr><td> <img src="https://github-readme-stats.vercel.app/api?username=hatanokokosa&?count_private=true&hide_border=true&include_all_commits=true&show_icons=true&locale=cn" width="400"> </td></tr>
-<tr><td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatanokokosa&locale=cn&layout=compact&hide_border=true" width="400"> </td></tr>
+<tr><td> <img src="https://github-readme-stats.vercel.app/api?username=hatanokokosa&?count_private=true&hide_border=true&include_all_commits=true&show_icons=true&locale=cn&theme=dark" width="400"> </td></tr>
+<tr><td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatanokokosa&locale=cn&layout=compact&hide_border=true&theme=dark" width="400"> </td></tr>
 <tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/ciallo.png" alt="avatar" style="width: 400px; border-radius: 50%;"/> </td></tr>
 </table>
 
@@ -19,7 +19,7 @@
 [![Telegram](https://img.shields.io/badge/_KokosaKawaii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KokosaKawaii)
 
 ### 📚 我的GPG公钥
-#### 唉我草我的私钥丢了，大悲
+#### ~~唉我草我的私钥丢了，大悲~~
 
 ### 🚀 正在学习的一些东西
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
