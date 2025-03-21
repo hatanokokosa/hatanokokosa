@@ -2,8 +2,8 @@
 
 <table align='right' border="0">
 <tr><td> <img width="400" src="https://count.kjchmc.cn/get/@:hatanokokosa?theme=gelbooru" /> </td></tr>
-<tr><td> <img src="https://github-readme-stats.vercel.app/api?username=hatanokokosa&?count_private=true&hide_border=true&include_all_commits=true&show_icons=true&locale=cn&theme=dark" width="400"> </td></tr>
-<tr><td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatanokokosa&locale=cn&layout=compact&hide_border=true&theme=dark" width="400"> </td></tr>
+<tr><td> <img src="https://github-readme-stats.vercel.app/api?username=hatanokokosa&?count_private=true&hide_border=true&include_all_commits=true&show_icons=true&locale=cn&&bg_color=1E1E2E&text_color=D9E0EE&icon_color=DDB6F2&title_color=C9CBFF" width="400"> </td></tr>
+<tr><td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatanokokosa&locale=cn&layout=compact&hide_border=true&&bg_color=1E1E2E&text_color=D9E0EE&icon_color=DDB6F2&title_color=C9CBFF" width="400"> </td></tr>
 <tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/ciallo.png" alt="avatar" style="width: 400px; border-radius: 50%;"/> </td></tr>
 </table>
 
