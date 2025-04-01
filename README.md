@@ -9,18 +9,16 @@
 
 <table><tr><td>
 
-<br>
-
 ### 🌍 Languages
-#### 🇨🇳 / 🇭🇰 / 🇹🇼 Chinese | 🇺🇸 English | 🇯🇵 Japanese
+[![Chinese](https://img.shields.io/badge/🇨🇳_Chinese-AA0000?style=for-the-badge&logoColor=white&labelColor=1E1E2E)]()
+[![English](https://img.shields.io/badge/🇬🇧_English-0000AA?style=for-the-badge&logoColor=white&labelColor=1E1E2E)]()
+[![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-FFFFFF?style=for-the-badge&logoColor=white&labelColor=1E1E2E)]()
 
-<br>
-  
+
 ### 📬 Contact Information (NO PM PLZ)
-[![Email](https://img.shields.io/badge/_kokosaarisu-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokosaarisu@gmail.com)
+[![Email](https://img.shields.io/badge/_kokosaarisu-26A5E4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokosaarisu@gmail.com)
 [![Bilibili](https://img.shields.io/badge/_-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546660854565061)
 [![Telegram](https://img.shields.io/badge/_KokosaKawaii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KokosaKawaii)
-
 <br>
 
 ### 🚀 Currently Learning
@@ -32,7 +30,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=Vue.js&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=fff)
-<br><br><br>
+<br><br>
 </td>
 </tr>
 </table>
