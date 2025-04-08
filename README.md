@@ -4,7 +4,7 @@
 <tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/ciallo.png" alt="avatar" style="width: 400px; border-radius: 50%;"/> </td></tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=89B4FA&random=false&width=435&separator=%40&lines=%3C%3E+%3D+%5B%5D+%3F+%3A+''+*+%2F+HELLO+WORLD;)](#TOP)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=89B4FA&random=false&width=435&separator=%40&lines=%3D+%5B%5D+%3F+%3A+''+*+%2F+HELLO+WORLD;)](#TOP)
 <table><tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/Q.png" alt="avatar" style="width: 350px; border-radius: 50%;"/></td></tr></table>
 
 <table><tr><td>
