@@ -1,7 +1,7 @@
 <table align='right' border="0">
 <tr><td><br> <img width="400" height="140" src="https://count.kjchmc.cn/get/@:hatanokokosa?theme=gelbooru&hide_border=true&&bg_color=1E1E2E&text_color=D9E0EE&icon_color=DDB6F2&title_color=C9CBFF" /> <br></td></tr>
 <tr><td> <img height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatanokokosa&locale=en&layout=compact&hide_border=true&&theme=catppuccin_latte" width="400"> </td></tr>
-<tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/pleasetp.png" alt="avatar" style="width: 410px; border-radius: 50%;"/> </td></tr>
+<tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/pleasetp.png" alt="avatar" style="width: 408px; border-radius: 50%;"/> </td></tr>
 </table>
 
 <table><tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/Q.png" alt="avatar" style="width: 350px; border-radius: 50%;"/></td></tr></table>
