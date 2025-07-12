@@ -8,19 +8,19 @@
 
 <table><tr><td>
 
-### 🌍 Languages
+### Languages
 [![Chinese](https://img.shields.io/badge/🇨🇳_Chinese-AA0000?style=for-the-badge&logoColor=white&labelColor=1E1E2E)]()
 [![🇬🇧🇬🇧English](https://img.shields.io/badge/🇬🇧_English-0000AA?style=for-the-badge&logoColor=white&labelColor=1E1E2E)]()
 [![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-FFFFFF?style=for-the-badge&logoColor=white&labelColor=1E1E2E)]()
 
 
-### 📬 Contact Information (NO PM PLZ)
+### Contact Information (NO PM)
 [![Email](https://img.shields.io/badge/_kokosaarisu-26A5E4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokosaarisu@gmail.com)
 [![Bilibili](https://img.shields.io/badge/_-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546660854565061)
 [![Telegram](https://img.shields.io/badge/_KokosaKawaii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KokosaKawaii)
 <br>
 
-### 🚀 Currently Learning
+### Learning
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
