@@ -1,10 +1,6 @@
 <table align='right' border="0">
-<tr><td><br> <img width="400" height="140" src="https://count.kjchmc.cn/get/@:hatanokokosa?theme=gelbooru&hide_border=true&&bg_color=1E1E2E&text_color=D9E0EE&icon_color=DDB6F2&title_color=C9CBFF" /> <br></td></tr>
-<tr><td> <img height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatanokokosa&locale=en&layout=compact&hide_border=true&&theme=catppuccin_latte" width="400"> </td></tr>
-<tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/pleasetp.png" alt="avatar" style="width: 407px; border-radius: 50%;"/> </td></tr>
+<tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/kokosa.avif" alt="avatar" style="width: 407px; border-radius: 50%;"/> </td></tr>
 </table>
-
-<table><tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/Q.png" alt="avatar" style="width: 350px; border-radius: 50%;"/></td></tr></table>
 
 <table><tr><td>
 
@@ -21,14 +17,22 @@
 <br>
 
 ### Learning
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
+![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Krita](https://img.shields.io/badge/-Krita-6A1B9A?style=for-the-badge&logo=krita&logoColor=white)  
+![Krita](https://img.shields.io/badge/-Draw-6A1B9A?style=for-the-badge&logo=krita&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=Vue.js&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 <br><br>
 </td>
 </tr>
