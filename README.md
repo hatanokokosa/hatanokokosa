@@ -1,5 +1,5 @@
 <table align='right' border="0">
-<tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/kokosa.avif" alt="avatar" style="width: 412px; border-radius: 50%;"/> </td></tr>
+<tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/kokosa.avif" alt="avatar" style="width: 410px; border-radius: 50%;"/> </td></tr>
 </table>
 
 <table><tr><td>
