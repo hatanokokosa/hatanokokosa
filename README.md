@@ -1,16 +1,16 @@
 <table align='right' border="0">
-<tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/kokosa.avif" alt="avatar" style="width: 407px; border-radius: 50%;"/> </td></tr>
+<tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/kokosa.avif" alt="avatar" style="width: 423px; border-radius: 50%;"/> </td></tr>
 </table>
 
 <table><tr><td>
 
-### Languages
+## Ciallo~ I'm Kokosa~
 [![Chinese](https://img.shields.io/badge/🇨🇳_Chinese-AA0000?style=for-the-badge&logoColor=white&labelColor=1E1E2E)]()
 [![🇬🇧🇬🇧English](https://img.shields.io/badge/🇬🇧_English-0000AA?style=for-the-badge&logoColor=white&labelColor=1E1E2E)]()
 [![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-FFFFFF?style=for-the-badge&logoColor=white&labelColor=1E1E2E)]()
 
 
-### Contact Information (NO PM)
+### Contact
 [![Email](https://img.shields.io/badge/_kokosaarisu-26A5E4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokosaarisu@gmail.com)
 [![Bilibili](https://img.shields.io/badge/_-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546660854565061)
 [![Telegram](https://img.shields.io/badge/_KokosaKawaii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KokosaKawaii)
