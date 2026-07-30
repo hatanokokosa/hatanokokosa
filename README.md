@@ -13,7 +13,7 @@
 ### Contact
 [![Email](https://img.shields.io/badge/_kokosaarisu-26A5E4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokosaarisu@gmail.com)
 [![Bilibili](https://img.shields.io/badge/_-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546660854565061)
-[![Telegram](https://img.shields.io/badge/_KokosaKawaii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KokosaKawaii)
+[![Telegram](https://img.shields.io/badge/_KokosaChannel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KokosaChannel)
 <br>
 
 ### Learning
