@@ -17,9 +17,9 @@
 <br>
 
 ### Learning
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)
 ![Krita](https://img.shields.io/badge/-Draw-6A1B9A?style=for-the-badge&logo=krita&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
