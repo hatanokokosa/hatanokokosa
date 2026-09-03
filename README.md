@@ -1,6 +1,6 @@
 <img
   align="right"
-  width="45%"
+  width="50%"
   src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/kokosa.avif"
   alt="avatar"
 />
