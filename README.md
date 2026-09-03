@@ -5,33 +5,33 @@
 <table><tr><td>
 
 ## Ciallo~ I'm Kokosa~
-[![Chinese](https://img.shields.io/badge/🇨🇳_Chinese-AA0000?style=for-the-badge&logoColor=white&labelColor=1E1E2E)]()
-[![🇬🇧🇬🇧English](https://img.shields.io/badge/🇬🇧_English-0000AA?style=for-the-badge&logoColor=white&labelColor=1E1E2E)]()
-[![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-FFFFFF?style=for-the-badge&logoColor=white&labelColor=1E1E2E)]()
+[![Chinese](https://img.shields.io/badge/🇨🇳_Chinese-C20F2D?style=for-the-badge&logoColor=white)]()
+[![English](https://img.shields.io/badge/🇬🇧_English-012166?style=for-the-badge&logoColor=white)]()
+[![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-FFFFFF?style=for-the-badge&logoColor=white)]()
 
 
 ### Contact
-[![Email](https://img.shields.io/badge/_kokosaarisu-26A5E4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokosaarisu@gmail.com)
-[![Bilibili](https://img.shields.io/badge/_-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546660854565061)
-[![Telegram](https://img.shields.io/badge/_KokosaChannel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KokosaChannel)
+[![Proton Mail](https://img.shields.io/badge/Proton_Mail-7455FD?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kokosaarisu@proton.me)
+[![Bilibili](https://img.shields.io/badge/Bilibili-848EF8?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546660854565061)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KokosaChannel)
 <br>
 
 ### Learning
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)
-![Krita](https://img.shields.io/badge/-Draw-6A1B9A?style=for-the-badge&logo=krita&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=fff)  
-![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=Vue.js&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)  
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-D12B1F?style=for-the-badge&logo=redis&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-862C9B?style=for-the-badge&logo=podman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E89B03?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E84E31?style=for-the-badge&logo=git&logoColor=white)  
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-7A3584?style=for-the-badge&logo=cshrp&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-414141?style=for-the-badge&logo=krita&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 <br><br>
 </td>
 </tr>
