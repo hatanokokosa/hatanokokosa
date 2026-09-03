@@ -2,13 +2,13 @@
 <tr><td> <img src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/kokosa.avif" alt="avatar" style="width: 410px; border-radius: 50%;"/> </td></tr>
 </table>
 
-<table><tr><td>
+<table>
+<tr><td>
 
 ## Ciallo~ I'm Kokosa~
 [![Chinese](https://img.shields.io/badge/🇨🇳_Chinese-C20F2D?style=for-the-badge&logoColor=white)]()
 [![English](https://img.shields.io/badge/🇬🇧_English-012166?style=for-the-badge&logoColor=white)]()
 [![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-FFFFFF?style=for-the-badge&logoColor=white)]()
-
 
 ### Contact
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-7455FD?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kokosaarisu@proton.me)
@@ -32,26 +32,35 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-414141?style=for-the-badge&logo=krita&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
-<br><br>
-</td>
-</tr>
+<br><br></td></tr>
 </table>
 
-<table><tr><td>
+
+
+<table>
+  <tr><td>
+    <p align="center">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/gh-pages/github-snake-dark.svg"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/gh-pages/github-snake.svg"
+        />
+        <img
+          alt="GitHub contribution snake"
+          src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/gh-pages/github-snake.svg"
+        />
+      </picture>
+    </p>
+  </td></tr>
+</table>
+
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/gh-pages/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/gh-pages/github-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/gh-pages/github-snake.svg"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg"
+    alt="footer"
+  />
 </p>
-</td></tr></table>
