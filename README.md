@@ -37,6 +37,7 @@
 </tr>
 </table>
 
+<table><tr><td>
 <p align="center">
   <picture>
     <source
@@ -53,3 +54,4 @@
     />
   </picture>
 </p>
+</td></tr></table>
