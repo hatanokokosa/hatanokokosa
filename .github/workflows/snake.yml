@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: hatanokokosa
           outputs: |
-            dist/github-snake.svg?color_snake=#7287fd&color_dots=#eff1f5,#ccd0da,#bcc0cc,#acb0be,#7287fd
-            dist/github-snake-dark.svg?color_snake=#babbf1&color_dots=#303446,#414559,#51576d,#626880,#babbf1
+            dist/github-snake.svg?color_snake=#7287fd&color_dots=#eff1f5,#d0d6f7,#b7c1f9,#98a7fb,#7287fd
+            dist/github-snake-dark.svg?color_snake=#babbf1&color_dots=#303446,#5c6183,#7a80ac,#9aa0d2,#babbf1
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
