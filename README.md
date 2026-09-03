@@ -11,13 +11,13 @@
 [![English](https://img.shields.io/badge/🇬🇧_English-012166?style=for-the-badge&logoColor=white)]()
 [![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-FFFFFF?style=for-the-badge&logoColor=white)]()
 
-#### Contact
+### Contact
 
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-7455FD?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kokosaarisu@proton.me)
 [![Bilibili](https://img.shields.io/badge/Bilibili-848EF8?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546660854565061)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KokosaChannel)
 
-#### Learning
+### Learning
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
