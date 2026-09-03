@@ -1,21 +1,23 @@
-<table>
-<tr>
+<img
+  align="right"
+  width="42%"
+  src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/kokosa.avif"
+  alt="avatar"
+/>
 
-<td valign="top">
-
-## Ciallo~ I'm Kokosa~
+### Ciallo~ I'm Kokosa~
 
 [![Chinese](https://img.shields.io/badge/🇨🇳_Chinese-C20F2D?style=for-the-badge&logoColor=white)]()
 [![English](https://img.shields.io/badge/🇬🇧_English-012166?style=for-the-badge&logoColor=white)]()
 [![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-FFFFFF?style=for-the-badge&logoColor=white)]()
 
-### Contact
+#### Contact
 
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-7455FD?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kokosaarisu@proton.me)
 [![Bilibili](https://img.shields.io/badge/Bilibili-848EF8?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546660854565061)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KokosaChannel)
 
-### Learning
+#### Learning
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
@@ -33,26 +35,9 @@
 ![Krita](https://img.shields.io/badge/Krita-414141?style=for-the-badge&logo=krita&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 
-</td>
-
-<td valign="top">
-
-<img
-  src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/refs/heads/main/kokosa.avif"
-  alt="avatar"
-  width="410"
-/>
-
-</td>
-
-</tr>
-</table>
+<br clear="both">
 
 <br>
-
-<table>
-<tr>
-<td>
 
 <p align="center">
   <picture>
@@ -65,20 +50,18 @@
       srcset="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/gh-pages/github-snake.svg"
     />
     <img
+      width="100%"
       alt="GitHub contribution snake"
       src="https://raw.githubusercontent.com/hatanokokosa/hatanokokosa/gh-pages/github-snake.svg"
     />
   </picture>
 </p>
 
-</td>
-</tr>
-</table>
-
 <br>
 
 <p align="center">
   <img
+    width="80%"
     src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg"
     alt="Catppuccin footer"
   />
