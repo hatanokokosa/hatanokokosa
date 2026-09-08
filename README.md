@@ -9,7 +9,7 @@
 
 [![Chinese](https://img.shields.io/badge/🇨🇳_Chinese-C20F2D?style=for-the-badge&logoColor=white)]()
 [![English](https://img.shields.io/badge/🇬🇧_English-012166?style=for-the-badge&logoColor=white)]()
-[![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-FFFFFF?style=for-the-badge&logoColor=white)]()
+[![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-eff1f5?style=for-the-badge&logoColor=white)]()
 
 ### Contact
 
